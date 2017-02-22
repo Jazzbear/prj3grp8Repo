@@ -1,0 +1,24 @@
+temperaturregulering af lokale
+	* fejl ved sensor skal så slå fra for at undgå overophedning
+	- temperaturføler
+	- åben luk af vindue
+	- kontrol af varmelægme (PID)
+.
+Klima/luftfugtighedsregulering.
+- måling a luftfugtighed
+
+Vandingssystem
+- interval styret
+	* til risikoanalyse -> sikring mod defekt sensor.
+- fugtighedsstyret
+- Fugtighedsmåling i jord
+
+Gødningssystem
+- PH måling
+
+Nødstrømssystem
+
+Betjeningsinterface ( UI ) -> seperat usecase for hver ting brugeren skal kunne gøre?
+
+køling af komponenter ( pi ved 50 grader + høj fugtighed?  )
+
